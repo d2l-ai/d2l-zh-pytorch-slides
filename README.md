@@ -9,3 +9,4 @@ You can also preview them in nbviwer:
  - [chapter_preliminaries/calculus.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_preliminaries/calculus.ipynb)
  - [chapter_preliminaries/autograd.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_preliminaries/autograd.ipynb)
  - [chapter_preliminaries/lookup-api.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_preliminaries/lookup-api.ipynb)
+ - [chapter_multilayer-perceptrons/dropout.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_multilayer-perceptrons/dropout.ipynb)
