@@ -1,0 +1,22 @@
+
+div.text_cell_render.rendered_html {
+    padding: 0.35em 0.1em;
+}
+
+div.code_cell {
+    font-size: 120%;
+}
+
+div.my-top-right {
+    position: absolute;
+    right: 5%;
+    top: 1em;
+    font-size: 2em;
+}
+
+div.my-top-left {
+    position: absolute;
+    left: 5%;
+    top: 1em;
+    font-size: 2em;
+}
