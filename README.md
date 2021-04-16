@@ -23,3 +23,8 @@ You can also preview them in nbviwer:
  - [chapter_multilayer-perceptrons/dropout.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_multilayer-perceptrons/dropout.ipynb)
  - [chapter_multilayer-perceptrons/numerical-stability-and-init.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_multilayer-perceptrons/numerical-stability-and-init.ipynb)
  - [chapter_multilayer-perceptrons/kaggle-house-price.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_multilayer-perceptrons/kaggle-house-price.ipynb)
+ - [chapter_deep-learning-computation/model-construction.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_deep-learning-computation/model-construction.ipynb)
+ - [chapter_deep-learning-computation/parameters.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_deep-learning-computation/parameters.ipynb)
+ - [chapter_deep-learning-computation/custom-layer.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_deep-learning-computation/custom-layer.ipynb)
+ - [chapter_deep-learning-computation/read-write.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_deep-learning-computation/read-write.ipynb)
+ - [chapter_deep-learning-computation/use-gpu.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_deep-learning-computation/use-gpu.ipynb)
