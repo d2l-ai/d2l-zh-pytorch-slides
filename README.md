@@ -28,6 +28,3 @@ You can also preview them in nbviwer:
  - [chapter_deep-learning-computation/custom-layer.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_deep-learning-computation/custom-layer.ipynb)
  - [chapter_deep-learning-computation/read-write.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_deep-learning-computation/read-write.ipynb)
  - [chapter_deep-learning-computation/use-gpu.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_deep-learning-computation/use-gpu.ipynb)
- - [chapter_convolutional-neural-networks/conv-layer.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_convolutional-neural-networks/conv-layer.ipynb)
- - [chapter_convolutional-neural-networks/channels.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_convolutional-neural-networks/channels.ipynb)
- - [chapter_convolutional-neural-networks/lenet.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_convolutional-neural-networks/lenet.ipynb)
