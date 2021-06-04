@@ -42,3 +42,5 @@ You can also preview them in nbviwer:
  - [chapter_convolutional-modern/densenet.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_convolutional-modern/densenet.ipynb)
  - [chapter_computational-performance/multiple-gpus.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_computational-performance/multiple-gpus.ipynb)
  - [chapter_computational-performance/multiple-gpus-concise.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_computational-performance/multiple-gpus-concise.ipynb)
+ - [chapter_computer-vision/image-augmentation.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_computer-vision/image-augmentation.ipynb)
+ - [chapter_computer-vision/fine-tuning.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_computer-vision/fine-tuning.ipynb)
