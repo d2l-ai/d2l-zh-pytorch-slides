@@ -44,3 +44,5 @@ You can also preview them in nbviwer:
  - [chapter_computational-performance/multiple-gpus-concise.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_computational-performance/multiple-gpus-concise.ipynb)
  - [chapter_computer-vision/image-augmentation.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_computer-vision/image-augmentation.ipynb)
  - [chapter_computer-vision/fine-tuning.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_computer-vision/fine-tuning.ipynb)
+ - [chapter_computer-vision/kaggle-cifar10.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_computer-vision/kaggle-cifar10.ipynb)
+ - [chapter_computer-vision/kaggle-dog.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-zh-pytorch-slides/blob/main/chapter_computer-vision/kaggle-dog.ipynb)
